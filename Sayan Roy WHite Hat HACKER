@@ -1,0 +1,18 @@
+# Sayan-white-hat-Hacker-
+Haking is a change anything Bro
+
+apt update 
+apt upgrate 
+pkg install git 
+pkg install bash 
+pkg install python -y 
+pkg install python2 -y 
+pkg install lolcat 
+git clone https://github.com/noob-hackers/spamx 
+cd $HOME 
+ls 
+cd spamx 
+ls 
+bash setup 
+bash spamx sh
+
